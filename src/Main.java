@@ -1,10 +1,10 @@
 public class Main {
     public static void main(String[] args) {
         int price = 3500;
-        int forbonus = 20;
-        int totalbonus = price / forbonus;
+        int forBonus = 20;
+        int totalBonus = price / forBonus;
 
-        System.out.println(totalbonus);
+        System.out.println(totalBonus);
 
 
     }
